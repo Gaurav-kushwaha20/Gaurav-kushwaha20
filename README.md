@@ -13,7 +13,6 @@ Welcome to my GitHub! I'm a passionate full-stack developer currently focused on
 - 💡 Framer Motion / GSAP for animations
 
 ### Backend
-- 🧩 **Express.js** (Node.js)
 - ☕ **Spring Boot**
 - 🔐 JWT Authentication & Authorization
 - 🗄️ MongoDB / MySQL
@@ -36,7 +35,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer currently focused on
 ## 📫 Contact Me
 
 - 📧 Email: [gaurav.kushwaha.0825@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gaurav-kushwaha-654b77284/))
+- 🔗 LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gaurav-kushwaha-654b77284/)]
 
 ---
 
